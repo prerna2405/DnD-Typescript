@@ -1,0 +1,24 @@
+{
+  "name": "dnd-typescript",
+  "version": "1.0.0",
+  "description": "A practice drag and drop project made using typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prerna2405/DnD-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prerna2405/DnD-Typescript/issues"
+  },
+  "homepage": "https://github.com/prerna2405/DnD-Typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
